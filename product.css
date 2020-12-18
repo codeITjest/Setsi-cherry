@@ -58,9 +58,9 @@ nav a:hover {
 }
 
 .product img {
-    width: 50%;
+    width: 80%;
     height: auto;
-
+    padding-left: 80px;
 
 }
 
